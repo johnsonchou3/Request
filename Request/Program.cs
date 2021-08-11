@@ -10,6 +10,7 @@ namespace Request
     {
         static async Task Main(string[] args)
         {
+            //give payload properties
             Payload payload = new Payload();
             payload.dtno = 5875162;
             payload.ftno = 0;

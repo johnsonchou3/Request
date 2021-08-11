@@ -1,0 +1,15 @@
+C:\Users\user1\Documents\Request\Request\bin\Debug\netcoreapp3.1\Request.exe
+C:\Users\user1\Documents\Request\Request\bin\Debug\netcoreapp3.1\Request.deps.json
+C:\Users\user1\Documents\Request\Request\bin\Debug\netcoreapp3.1\Request.runtimeconfig.json
+C:\Users\user1\Documents\Request\Request\bin\Debug\netcoreapp3.1\Request.runtimeconfig.dev.json
+C:\Users\user1\Documents\Request\Request\bin\Debug\netcoreapp3.1\Request.dll
+C:\Users\user1\Documents\Request\Request\bin\Debug\netcoreapp3.1\Request.pdb
+C:\Users\user1\Documents\Request\Request\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user1\Documents\Request\Request\obj\Debug\netcoreapp3.1\Request.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\Request\Request\obj\Debug\netcoreapp3.1\Request.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\Request\Request\obj\Debug\netcoreapp3.1\Request.AssemblyInfo.cs
+C:\Users\user1\Documents\Request\Request\obj\Debug\netcoreapp3.1\Request.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Request\Request\obj\Debug\netcoreapp3.1\Request.csproj.CopyComplete
+C:\Users\user1\Documents\Request\Request\obj\Debug\netcoreapp3.1\Request.dll
+C:\Users\user1\Documents\Request\Request\obj\Debug\netcoreapp3.1\Request.pdb
+C:\Users\user1\Documents\Request\Request\obj\Debug\netcoreapp3.1\Request.genruntimeconfig.cache
